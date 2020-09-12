@@ -1,5 +1,3 @@
-# Prueba técnica de Roostack
-
 ### 1. Fetch & order
 Usando https://randomuser.me/ como fuente de data, crear una función que retorne un arreglo:
 * Debe retornar 10 personas.
